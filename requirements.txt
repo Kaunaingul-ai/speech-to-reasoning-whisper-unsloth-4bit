@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+bitsandbytes
+openai-whisper
+sentencepiece
+librosa
+soundfile
+jiwer
+pandas
+gradio
